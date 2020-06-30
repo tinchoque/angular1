@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-postulante"
+    }
+  },
+  "defaultProject": "app-postulante",
+  "cli": {
+    "analytics": false
+  }
 }
